@@ -958,15 +958,16 @@ footer p{
 
 .hamburger{
 
-    display:none;
+    display:flex;
 
     flex-direction:column;
 
     gap:6px;
 
     cursor:pointer;
-}
 
+    z-index:9999;
+}
 .hamburger span{
 
     width:28px;
