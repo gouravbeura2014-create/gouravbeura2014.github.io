@@ -1,2 +1,2 @@
 # Apna_Portfolio
-Just a simple portfolio of Mr. Gourav Beura 
+Official portfolio website of Gourav Beura - Future Scientist and Technology Explorer.
